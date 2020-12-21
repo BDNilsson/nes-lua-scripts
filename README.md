@@ -1,0 +1,1 @@
+Collection of LUA scripts for FCEUX
